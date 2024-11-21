@@ -1,4 +1,4 @@
-![My Banner]([https://drive.google.com/uc?id=1Y0UYm8Pu6Kn7h3ngnh0hAKq8zQZPHJl0](https://drive.google.com/file/d/1Y0UYm8Pu6Kn7h3ngnh0hAKq8zQZPHJl0/view?usp=sharing))
+![My Banner](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-globalnav-goto)
 
 # 👋 Hi, I’m @Mxrn-Cyber
 
