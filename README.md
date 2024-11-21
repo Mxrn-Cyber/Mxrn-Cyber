@@ -1,4 +1,4 @@
-![My Banner](https://drive.google.com/file/d/1Y0UYm8Pu6Kn7h3ngnh0hAKq8zQZPHJl0/view?usp=sharing)
+![photo_2024-11-21_13-59-05](https://github.com/user-attachments/assets/de682912-c892-4bae-8220-dfbe46b93218)
 
 # 👋 Hi, I’m @Mxrn-Cyber
 
