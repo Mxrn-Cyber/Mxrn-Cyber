@@ -1,4 +1,5 @@
-![Banner](./home-bg.jpg)
+![Uploading image.png…]()
+
 # 👋 Hi, I’m @Mxrn-Cyber
 
 - 👀 I’m interested in creating seamless and intuitive digital experiences through UI/UX design and web development.
