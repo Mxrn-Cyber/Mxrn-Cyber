@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced design techniques and experimenting with the latest web development tools.
 - 💞️ I’m looking to collaborate on exciting web development projects that focus on user-centric design.
 - 📫 How to reach me: You can contact me through laothomorn@gmail.com or connect with me on https://www.linkedin.com/in/lao-thomorn-347a4b28b/, or you can check out my portfolio to seeking more about me: https://myportfolio-7s0.pages.dev/
-- 😄 Pronouns: Him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love blending creativity with code to make beautiful, functional web applications!
 
 <!---
