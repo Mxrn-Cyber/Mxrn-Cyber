@@ -33,7 +33,7 @@ Welcome to my corner of the internet! I'm a passionate **UI/UX designer** and **
 
 ## 🌐 Featured Project
 
-**[JS Portfolio Website](https://myportfolio-7s0.pages.dev/)**  
+**[My Portfolio Website](https://myportfolio-7s0.pages.dev/)**  
 A multi-page, fully responsive portfolio built with React, styled with React-Bootstrap and custom CSS. Check out the [repository](https://github.com/Mxrn-Cyber?tab=repositories) or [live demo](https://myportfolio-7s0.pages.dev/)!
 
 ## 📊 GitHub Stats
