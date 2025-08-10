@@ -24,12 +24,37 @@ Welcome to my corner of the internet! I'm a passionate **UI/UX designer** and **
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat-square&logo=sass)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap)
+
+### Backend
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat-square&logo=laravel)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat-square&logo=fastapi)
+
+### Databases & APIs
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat-square&logo=graphql)
+
+### Tools & Platforms
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat-square&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat-square&logo=cloudflare)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat-square&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat-square&logo=androidstudio)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat-square&logo=intellijidea)
+![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat-square&logo=pycharm)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat-square&logo=unity)
+![MAMP](https://img.shields.io/badge/-MAMP-333333?style=flat-square&logo=mamp)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 
 ## 🌐 Featured Project
 
