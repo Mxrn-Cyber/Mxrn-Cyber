@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet! I'm a passionate **UI/UX designer** and **web developer** dedicated to crafting seamless, intuitive, and user-centric digital experiences.
 
-![Profile Banner](https://github.com/user-attachments/assets/de682912-c892-4bae-8220-dfbe46b93218)
+![Profile Banner](https://github.com/Mxrn-Cyber/Mxrn-Cyber/blob/master/myportfolio.png)
 
 ## 🌟 About Me
 
