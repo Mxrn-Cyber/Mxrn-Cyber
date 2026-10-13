@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40">
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#c6ff3d" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#c6ff3d" stop-opacity="0.35"/>
+      <stop offset="0.85" stop-color="#c6ff3d" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dot"><stop offset="0" stop-color="#ffffff"/><stop offset="0.35" stop-color="#c6ff3d"/><stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/></radialGradient>
+    <style>
+      .p { animation: run 3.2s linear infinite; }
+      .p2 { animation: run 3.2s linear infinite; animation-delay: -1.6s; }
+      @keyframes run { from { transform: translateX(-60px); } to { transform: translateX(1060px); } }
+      .blink { animation: bl 1.6s ease-in-out infinite; }
+      @keyframes bl { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <path d="M0 20 H300 L315 8 H420 L435 20 H565 L580 32 H685 L700 20 H1000" fill="none" stroke="url(#fade)" stroke-width="2"/>
+  <g fill="#c6ff3d"><circle class="blink" cx="315" cy="8" r="3"/><circle class="blink" cx="500" cy="20" r="4" style="animation-delay:.5s"/><circle class="blink" cx="685" cy="32" r="3" style="animation-delay:1s"/></g>
+  <circle class="p" cx="0" cy="20" r="10" fill="url(#dot)"/>
+  <circle class="p2" cx="0" cy="20" r="7" fill="url(#dot)"/>
+</svg>

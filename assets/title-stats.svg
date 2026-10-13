@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90">
+  <style>.c { animation: b 1s steps(1) infinite; } @keyframes b { 50% { opacity: 0; } }
+  .s { animation: sc 4s linear infinite; } @keyframes sc { from { transform: translateX(-200px); } to { transform: translateX(1000px); } }</style>
+  <defs><linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#c6ff3d" stop-opacity="0"/><stop offset=".5" stop-color="#c6ff3d" stop-opacity=".25"/><stop offset="1" stop-color="#c6ff3d" stop-opacity="0"/></linearGradient>
+  <clipPath id="cl"><rect x="250" y="12" width="500" height="56" rx="12"/></clipPath></defs>
+  <rect x="250" y="12" width="500" height="56" rx="12" fill="#0a0a0a" stroke="#c6ff3d" stroke-opacity=".55"/>
+  <g clip-path="url(#cl)"><rect class="s" x="0" y="12" width="200" height="56" fill="url(#sg)"/></g>
+  <text x="500" y="47" text-anchor="middle" font-family="Menlo, Consolas, 'Fira Code', 'SFMono-Regular', monospace" font-size="22" font-weight="700" fill="#c6ff3d" letter-spacing="3">[ VITAL STATISTICS ]<tspan class="c">_</tspan></text>
+  <text x="500" y="86" text-anchor="middle" font-family="Menlo, Consolas, 'Fira Code', 'SFMono-Regular', monospace" font-size="12" fill="#8a8a85" letter-spacing="2">// live from github</text>
+</svg>
