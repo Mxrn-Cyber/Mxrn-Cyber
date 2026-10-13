@@ -81,10 +81,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mxrn-Cyber&theme=github_dark" width="100%" alt="Profile summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mxrn-Cyber&bg_color=0a0a0a&color=a3a39b&line=c6ff3d&point=f5f5f0&area=true&area_color=c6ff3d&title_color=c6ff3d&hide_border=true&radius=16" width="100%" alt="Contribution activity graph" />
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <!-- ===================== OPEN CHANNELS ===================== -->
