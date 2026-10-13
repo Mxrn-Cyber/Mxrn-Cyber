@@ -1,4 +1,3 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:1a2e05,100:c6ff3d&height=240&section=header&text=MXRN%20CYBER&fontSize=72&fontColor=c6ff3d&fontAlignY=36&desc=Lao%20Thomorn%20%E2%80%94%20Full-Stack%20Web%20Developer%20%C2%B7%20UI%2FUX%20Designer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mxrn Cyber" />
 </p>
@@ -23,7 +22,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== SYSTEM ACCESS ===================== -->
+
 <p align="center"><img src="assets/title-access.svg" width="100%" alt="System access" /></p>
 
 <table align="center">
@@ -38,7 +37,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== TECH ARSENAL ===================== -->
+
 <p align="center"><img src="assets/title-stack.svg" width="100%" alt="Tech arsenal" /></p>
 
 <table align="center">
@@ -70,7 +69,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== VITAL STATISTICS ===================== -->
+
 <p align="center"><img src="assets/title-stats.svg" width="100%" alt="Vital statistics" /></p>
 
 <p align="center">
@@ -83,7 +82,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== OPEN CHANNELS ===================== -->
+
 <p align="center"><img src="assets/title-collab.svg" width="100%" alt="Open channels" /></p>
 
 **🤝 I'd love to collaborate on:**
@@ -103,7 +102,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<!-- ===================== FOOTER ===================== -->
+
 <p align="center">
   <code>Blending creativity with code — one pixel and one commit at a time.</code>
   <br /><br />
